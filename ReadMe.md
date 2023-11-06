@@ -1,4 +1,5 @@
 <h1>HouseForcast</h1>
+<img src="houseforcast-webapp-demo.gif" alt="Demo of House Forcast web app">
 <h2>About Project</h2>
 <p>
 In this project, we will use linear regression techniques with Python's scikit-learn library to predict housing prices in California. The objective is to understand which characteristics of a residential property (such as number of bedrooms, location, local income, etc.) influence its market value.
