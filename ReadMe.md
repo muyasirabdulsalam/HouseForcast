@@ -11,6 +11,7 @@ Next, we will use linear regression to model the relationship between the home's
 </p>
 <p>
 Finally, a web application was created, using Streamlit, in which it is possible to predict the value of a property according to data provided by the user. We will analyze the results and understand the project's business vision, which can be useful to help real estate professionals, investors and even people who are looking for a house to buy.
+<strong><a href="https://houseforcast.streamlit.app">HouseForcast App</a></strong>
 </p>
 <h2>Description of Data</h2>
 <p>The dataset has the following variables:</p>
