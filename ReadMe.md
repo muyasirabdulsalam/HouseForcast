@@ -14,19 +14,24 @@ Finally, a web application was created, using Streamlit, in which it is possible
 </p>
 <h2>Description of Data</h2>
 <p>The dataset has the following variables:</p>
-- longitude: longitude of a given set of houses.
-- latitude: latitude of a given set of houses.
-- housing_median_age: median age of houses in a block.
-- total_rooms: total number of rooms in a block of houses.
-- total_bedrooms: total number of bedrooms in a block.
-- population: population of the locality in a block.
-- households: total number of families, groups of people residing in a household unit, per block.
-- median_income: median income in a block.
-- ocean_proximity: Proximity to the ocean (less than an hour to reach the ocean; land; near the ocean; near a bay; on an island).
+<ul>
+<li>longitude: longitude of a given set of houses</li>
+<li>latitude: latitude of a given set of houses.</li>
+<li>housing_median_age: median age of houses in a block.</li>
+<li>total_rooms: total number of rooms in a block of houses.</li>
+<li>total_bedrooms: total number of bedrooms in a block.</li>
+<li>population: population of the locality in a block.</li>
+<li>households: total number of families, groups of people residing in a household unit, per block.</li>
+<li>median_income: median income in a block.</li>
+<li>ocean_proximity: Proximity to the ocean (less than an hour to reach the ocean; land; near the ocean;
+near a bay; on an island).</li>
+</ul>
 <h2>Overview of Methodology</h2>
-1. Import the data and libraries
-2. Understand data and its types
-3. Exploratory Analysis
-4. Feature Engineering
-5. Modeling
-6. Deployment
+<ol>
+<li>Import the data and libraries</li>
+<li>Understand data and its types</li>
+<li>Exploratory Analysis</li>
+<li>Feature Engineering</li>
+<li>Modeling</li>
+<li>Deployment</li>
+</l>
